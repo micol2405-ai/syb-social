@@ -1,0 +1,14 @@
+{
+  "kind": "carousel",
+  "tag": "AI per il lavoro",
+  "footer_right": "sybstrategies.com",
+  "slides": [
+    {"theme": "dark", "dot": true, "h1": "Domani è lunedì.\n*Delegane una parte.*", "p": "5 attività da passare all'AI prima delle 10:00, per arrivare a pranzo con la testa libera."},
+    {"num": "01", "h2": "Il riepilogo delle *email*", "p": "Incolla i thread rimasti aperti venerdì e chiedi: cosa devo decidere io, cosa posso archiviare, a chi rispondo per primo."},
+    {"num": "02", "h2": "La scaletta della *settimana*", "p": "Elenca impegni e scadenze. Chiedi un piano giorno per giorno, con priorità e tempi realistici, non ottimistici."},
+    {"num": "03", "h2": "La prima email *difficile*", "p": "Dai ruolo, contesto, obiettivo e tono. L'AI scrive la prima versione, tu la rendi tua in cinque minuti."},
+    {"num": "04", "h2": "Il verbale della *riunione*", "p": "Dagli appunti grezzi a un testo pronto da inviare: decisioni prese, chi fa cosa, entro quando."},
+    {"num": "05", "h2": "La sintesi del documento *lungo*", "p": "Un report di 30 pagine diventa 10 punti chiave, più le domande da fare a chi l'ha scritto.", "box": ["Una regola", "Niente dati sensibili di clienti o colleghi in strumenti non approvati dalla tua azienda."]},
+    {"theme": "dark", "dot": true, "h1": "Meno routine.\n*Più tempo per decidere.*", "p": "Salva il post per domani mattina. Il metodo completo, passo per passo, è nel corso «AI per il lavoro» della SYB Academy.", "cta": "Segui @syb_strategies"}
+  ]
+}

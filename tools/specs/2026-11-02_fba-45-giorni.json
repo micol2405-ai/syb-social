@@ -1,0 +1,12 @@
+{
+  "kind": "reel",
+  "tag": "Salva per dopo",
+  "slides": [
+    {"theme": "dark", "label": "Amazon FBA", "h1": "Reso rimborsato, prodotto mai rientrato?\n*Quei soldi sono tuoi.*", "p": "La regola dei 45 giorni, spiegata in mezzo minuto."},
+    {"h2": "Cosa *succede*", "list": ["Il cliente chiede il reso", "Amazon lo rimborsa subito", "Il prodotto dovrebbe rientrare in magazzino", "A volte non rientra mai"]},
+    {"num": "01", "h2": "La *regola*", "p": "Se il cliente è stato rimborsato e il prodotto non rientra entro 45 giorni, hai diritto al rimborso.", "box": ["Il controllo", "Confronta i rimborsi ai clienti con i resi che sono davvero rientrati."]},
+    {"num": "02", "h2": "Dove *guardare*", "p": "In «Resi clienti di logistica di Amazon» cerchi la data di rientro dell'ordine. Se non c'è, quell'unità è un Mancante."},
+    {"num": "03", "h2": "Cosa *fare*", "p": "Apri un caso con il numero d'ordine e la data del rimborso. Le richieste hanno delle scadenze: fai il controllo ogni mese."},
+    {"theme": "dark", "dot": true, "h1": "Nessuno controlla\n*al posto tuo.*", "p": "Resi, Mancanti, spedizioni in entrata e rimborsi: è il cuore del corso Amazon FBA della SYB Academy.", "cta": "sybstrategies.com"}
+  ]
+}
